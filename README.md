@@ -17,3 +17,5 @@
 ### These sites essentially implement what I have already explained in the explanation of the project. However, these sites only cover one league. 
 ### Looking at these sites it should be possible to implement it in a very similar manner. 
 ### The hardest part (assuming I am relatively easily able to scrub the databases) in my opinion will be implementing the various queries. These queries are necessary to pick the best players according to the users' criteria.
+
+###### Jeremy Adei
